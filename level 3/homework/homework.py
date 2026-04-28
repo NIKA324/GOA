@@ -47,9 +47,7 @@
 #teqstad (string) gadaasaqcevad.
 #es mosaxerxebelia, roca gvinda ricxvi da teqsti ertmanets mivawebot.
 
-points = 100
-
-message = "tqven gaqtvt" + str(points) + "qula."
-
-print(message)
+#points = 100
+#message = "tqven gaqtvt" + str(points) + "qula."
+#print(message)
 
